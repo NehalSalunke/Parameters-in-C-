@@ -1,0 +1,8 @@
+D:\CSharp\TypesOfParameters\bin\Debug\TypesOfParameters.exe.config
+D:\CSharp\TypesOfParameters\bin\Debug\TypesOfParameters.exe
+D:\CSharp\TypesOfParameters\bin\Debug\TypesOfParameters.pdb
+D:\CSharp\TypesOfParameters\obj\Debug\TypesOfParameters.csproj.AssemblyReference.cache
+D:\CSharp\TypesOfParameters\obj\Debug\TypesOfParameters.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\TypesOfParameters\obj\Debug\TypesOfParameters.csproj.CoreCompileInputs.cache
+D:\CSharp\TypesOfParameters\obj\Debug\TypesOfParameters.exe
+D:\CSharp\TypesOfParameters\obj\Debug\TypesOfParameters.pdb
